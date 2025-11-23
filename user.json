@@ -22,6 +22,8 @@
 "TPHUPT": "input",
 "TRAPBLGT": "trajectory",
 "TAR/PWAUL": "tarball",
+"KWHA*PL": "yaml",
+"KWH-PL": "yml",
 "KWEUFRG": "configure",
 "KWEUFG": "config",
 "KHRA*UD": "claude",
@@ -31,9 +33,12 @@
 "PRAPL/TEUBLG": "programmatically",
 "PREFBGS": "prefix",
 "PAOEU/TEFT": "pytest",
+"HERT/SKWRAOEPBS": "heterogeneous",
 "RE/PRAOUBLT": "reproducibility",
+"AOEFB": "even",
 "AEU/EU": "AI",
 "OEP/SAOUS": "openSUSE",
 "*UPT": "upto",
+"*RB": "{^}.rb",
 "EUD/ETS": "i.e."
 }
